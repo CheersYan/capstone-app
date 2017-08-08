@@ -7,6 +7,10 @@
 //
 
 import UIKit
+import Foundation
+import WilddogAuth
+import WilddogCore
+import WilddogSync
 
 class ViewController: UIViewController {
 
